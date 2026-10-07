@@ -1,6 +1,6 @@
 # ProteusVR
 
-Some classes I made with ProteusVR, in Unreal Engine.
+Small system I made for a professional project, in Unreal Engine.
 
 IngredientsContainerComponent is a simple recipe and ingredients system. It is a component you would add to an actor to save the indredients it has and to know when a certain recipe is made.
 
