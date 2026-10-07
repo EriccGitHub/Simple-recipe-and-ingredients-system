@@ -1,4 +1,4 @@
-# ProteusVR
+# Simple-recipe-and-ingredients-system
 
 Small system I made for a professional project, in Unreal Engine.
 
